@@ -1,0 +1,17 @@
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+* {
+  background-color: #121212;
+}
+
+.underline:hover {
+  text-decoration: underline;
+}
+
+.cartUnderline:hover {
+  border-bottom: 1.5px solid white
+}
